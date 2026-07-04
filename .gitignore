@@ -1,0 +1,4 @@
+﻿data/market_data.db
+venv/
+__pycache__/
+*.pyc
